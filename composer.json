@@ -1,0 +1,5 @@
+{
+    "require": {
+        "filippo-toso/p7m-extractor": "^1.0"
+    }
+}
